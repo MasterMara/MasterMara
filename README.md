@@ -12,12 +12,12 @@
 </p>
 <h2 align="center"> 💻 Tech Stack</h2>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="react" width="200"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="200"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="react" width="100"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="100"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" width="200">
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" width="200"/>
   <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis"width="200" height="55"  />
-  <img src="https://camo.githubusercontent.com/926c8518051d2fb0f50b237486fb2329df734df8a67c507a2fd85d218f3fc7de/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646f636b65722f646f636b65722d617232312e737667" width="200">
+  <img src="[https://camo.githubusercontent.com/926c8518051d2fb0f50b237486fb2329df734df8a67c507a2fd85d218f3fc7de/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646f636b65722f646f636b65722d617232312e737667](https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg)" width="200">
 </p>
 <h2 align="center"> ⚡ Recent Activity</h2>
 <hr>
