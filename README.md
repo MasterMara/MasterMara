@@ -18,6 +18,16 @@
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq"/>
   <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" />
 </p>
+<h2 align="center"> ⚡ Recent Activity</h2>
+<hr>
+
+- This is my updated Github page
+- 🔭 I’m  currently working on Hepsiburada :)
+- 🌱 I’m currently learning Kafka ...
+- 💻 All of my projects are not available at here if you wonder more contact me (Backend and .net core projects: microservice, gateways, cronjobs, consumers,publishers etc.)
+- 📫 You can reach me at [mustafa.karacabey.engineerx@gmail.com](mailto:mustafa.karacabey.engineerx@gmail.com)
+- 💬 Ask me about Software Engineering, BackEnd Development, FrontEnd Development
+- ⚡ Fun fact: I might be addicted to coding 😄
 
 <!--
 **MasterMara/MasterMara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
