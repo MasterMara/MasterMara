@@ -17,9 +17,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="100">
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="100"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" width="200">
-   <img src="https://miro.medium.com/max/640/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="Docker" width="200">
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" width="200"/>
+  <img src="https://miro.medium.com/max/640/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="Mongo" width="120">
+  <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_251be2af3ae607c45c14e816eaa1cf41/postgresql.png" alt="Postgres" width="120">
+  <img src="https://plugins.jetbrains.com/files/14512/251043/icon/pluginIcon.png" alt="Elastic" width="120">
   <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis"width="200"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" width="200"/>
 </p>
 <h2 align="center"> ⚡ Recent Activity</h2>
 <hr>
