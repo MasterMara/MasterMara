@@ -19,7 +19,7 @@
   <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" width="200">
   <img src="https://miro.medium.com/max/640/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="Mongo" width="120">
   <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_251be2af3ae607c45c14e816eaa1cf41/postgresql.png" alt="Postgres" width="120">
-  <img src="https://plugins.jetbrains.com/files/14512/251043/icon/pluginIcon.png" alt="Elastic" width="120">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Elastic_NV_logo.svg/1200px-Elastic_NV_logo.svg.png" alt="Elastic" width="120">
   <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis"width="200"/>
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" width="200"/>
 </p>
