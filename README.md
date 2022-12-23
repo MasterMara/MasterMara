@@ -23,8 +23,7 @@
   <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_251be2af3ae607c45c14e816eaa1cf41/postgresql.png" alt="Postgres" width="120">
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Elastic_NV_logo.svg/1200px-Elastic_NV_logo.svg.png" alt="Elastic" width="140">
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png" alt="Grafana" width="90">
-
-  <img src="https://1.bp.blogspot.com/-kK1J53x5IY8/XXDtrxvUCNI/AAAAAAAACSw/wH2Y3nwJYDUnQdL4BBz_9sWh-MV1WrXxACEwYBhgL/s1600/prometheus.png" alt="Prometheus" width="120">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png" alt="Prometheus" width="120">
 
 </p>
 <h2 align="center"> ⚡ Recent Activity</h2>
