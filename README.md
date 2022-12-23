@@ -1,8 +1,7 @@
 <h1 align="center">Hello There 👋, I'm Mustafa</h1>
 <p align="center">
-  <samp> Software Engineer @Hepsiburada</samp>
+  <samp> Perfectionist Software Engineer @Hepsiburada</samp>
 </p>
-https://komarev.com/ghpvc/?username=Mustafa-Karacabey&color=green&style=plastic](https://komarev.com/ghpvc/?username=MasterMara&color=green&style=plastic)
 <p align="center">
   <a href="https://www.linkedin.com/in/mustafa-karacabey-2046741a3/" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="mustafa-karacabey" />
