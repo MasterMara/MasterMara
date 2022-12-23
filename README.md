@@ -1,6 +1,6 @@
 <h1 align="center">Hello There 👋, I'm Mustafa</h1>
 <p align="center">
-  <samp> Perfectionist Software Engineer @Hepsiburada</samp>
+  <samp> Perfectionist Software Engineer at  @Hepsiburada</samp>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/mustafa-karacabey-2046741a3/" target="blank">
