@@ -9,6 +9,8 @@
   <a href="https://medium.com/@mustafa.karacabey.engineerx" target="blank">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="mustafa-karacabey" />
   </a>
+  <a href="https://www.buymeacoffee.com/MasterMara" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 </p>
 <h2 align="center"> 💻 Tech Stack</h2>
 <p align="left">
